@@ -6,7 +6,7 @@ import './app.scss';
 export default function App() {
   return (
     <Box display="flex" alignItems="center" justifyContent="center" height="100%" width="100%">
-      <Typography variant="caption">Menu</Typography>
+      <Typography variant="caption">Hello From React, Material UI</Typography>
     </Box>
   )
 }
